@@ -6,7 +6,7 @@ Password generator is a webapp that creates a password following this criteria: 
 
 You can use the Password Generator just by clicking this url: [https://giannifontanot.github.io/password-generator/](https://giannifontanot.github.io/password-generator/)
 
-![Password Generator](./assets/images/imgpasswordgenerator.png)
+![Password Generator](./images/imgpasswordgenerator.PNG)
 
 ## Usage
 
