@@ -2,9 +2,9 @@
 
 Password generator is a webapp that creates a password following this criteria: It can have from 1 to 128 combinations of lowercase, uppercase, numeric, and/or special characters.
 
-## Installation
+## Live Link
 
-Live link: [https://giannifontanot.github.io/password-generator/](https://giannifontanot.github.io/password-generator/)
+[https://giannifontanot.github.io/password-generator/](https://giannifontanot.github.io/password-generator/)
 
 ![Password Generator](./images/imgpasswordgenerator.PNG)
 
